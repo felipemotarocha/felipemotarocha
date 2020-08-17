@@ -7,7 +7,7 @@
 
 </p>
 
-👋 Hi, I'm Felipe, a passionate web developer.
+<h1>👋 Hi, I'm Felipe, a passionate web developer.</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
