@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hi, I'm Felipe, a passionate web developer.</h1>
+<h1>👋 &nbsp;Hi, I'm Felipe, a passionate full stack web developer.</h1>
 <p align="center">
 <a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
