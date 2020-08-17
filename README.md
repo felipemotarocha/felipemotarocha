@@ -16,7 +16,7 @@
 - ✍️ &nbsp; I love to write about tech and web development. I have a blog which I share my thoughts and try to help other developers and people that want to become one.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 Front-end:</h3>
+<h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -25,7 +25,11 @@
 ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 
-<h3>⚙️ Back-end and database:</h3>
+<h3>⚙️ &nbsp;Back-end and database:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+<h2>🚀 &nbsp;A Little More About My Profile</h2>
+
+[![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha)](https://github.com/anuraghazra/github-readme-stats)
