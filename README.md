@@ -11,7 +11,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; I started to code when I was 11. I wanted to build a private server of the game I used to play and since the first touch with the source code I knew that this was what I wanted to do in my life.
-- 💼 &nbsp; Currently I have a digital business which has the goal of help other developers and people that want to enter in the tech area. To check it out, click on the Instagram icon above!
+- 💼 &nbsp; Currently I have a digital business which has the goal of help other developers and people that want to enter in the tech area. To check it out, click on the Instagram icon above or search for @dicasparadevs on Instagram.
 - ✍️ &nbsp; I love to write about tech and web development. I have a blog which I share my thoughts and try to help other developers and people that want to become one.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
