@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hi, I'm Felipe, a passionate full stack web developer.</h1>
+<h1>👋 &nbsp;Hi, I'm Felipe, a passionate full stack developer.</h1>
 <p align="center">
 <a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
@@ -21,17 +21,20 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React & React Native](https://img.shields.io/badge/-React%20&%20React%20Native-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h3>⚙️ &nbsp;Back-end and database:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h2>🚀 &nbsp;A Little More About My Profile</h2>
 
