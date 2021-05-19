@@ -39,4 +39,4 @@
 
 <h2>🚀 &nbsp;A Little More About My Profile</h2>
 
-[![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
