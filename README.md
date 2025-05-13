@@ -21,6 +21,8 @@ One of the things I'm most passionate about is continuous learning and sharing k
 
 That's why I founded the <strong>[Full Stack Club](https://www.fullstackclub.com.br/)</strong>, a community where I mentor and support over <strong>3,000 aspiring developers</strong>. There, I teach practical skills in technologies like TypeScript, React, Node.js, and more — all with a hands-on, real-world approach focused on building solid careers in software engineering.
 
+I also run a [YouTube channel](https://www.youtube.com/@dicasparadevs) where I’ve been creating content for over 5 years. My videos have accumulated more than <strong>2.5 million views</strong>, and my React and Node.js courses are among the most watched in Brazil. Through my content, I aim to make high-quality programming education accessible and practical for everyone.
+
 Teaching helps me grow as much as coding does, and I'm always striving to be a better developer, mentor, and human being.
 
 <h2> 📚 &nbsp;What will you find here?</h2>
