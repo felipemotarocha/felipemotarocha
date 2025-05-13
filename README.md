@@ -33,6 +33,8 @@ This GitHub is more than just a code repository — it's a reflection of my jour
 - Clean Architecture and SOLID principles in action
 - High test coverage with automated testing
 - Experiments, technical studies, and real-world best practices
+  
+If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:felipemota.rocha@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/felipe-rocha-034871172/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
